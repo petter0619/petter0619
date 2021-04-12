@@ -16,7 +16,7 @@ Some projects I wish to highlight include:
 ### Contact
 
 📫 How to reach me:
-* Email: petter0619@gmail.com
+* Email: petter.carlsson@appliedtechnology.se
 * [LinkedIn](https://www.linkedin.com/in/petter0619/)
 
 <!--
