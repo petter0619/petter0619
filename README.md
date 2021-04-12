@@ -12,6 +12,7 @@ Some projects I wish to highlight include:
 * [My 4DX](https://github.com/lukas-schmid/my-4dx) - The final project at </salt> completed over 2 weeks. Tech stack highlights: React, Node + Express (REST API), Firebase, ChartsJS, SCSS.
 * [React Todo List](https://github.com/petter0619/react-todo-list) - Tech stack highlights: React (class based components), SCSS
 * [Vanilla JS Todo List](https://github.com/petter0619/vanilla-js-todo-list) - Tech stach highlights: Vanilla JavaScript, CSS.
+* [Gallery Design Replication](https://github.com/petter0619/copy-a-design) - HTML and CSS mini-challenge to show how well I can replicate a given design.
 
 ### Contact
 
