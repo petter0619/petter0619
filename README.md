@@ -27,6 +27,7 @@ You'll also find some public repos that are works in progress e.g. my [TypeScrip
 📫 How to reach me:
 * Email: petter.carlsson@appliedtechnology.se
 * [LinkedIn](https://www.linkedin.com/in/petter0619/)
+* * [Portfolio site](http://pettercarlsson.com)
 
 <!--
 **petter0619/petter0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
