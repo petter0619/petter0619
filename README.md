@@ -9,7 +9,7 @@
 ### Contact
 
 📫 How to reach me:
-* Email: petter.carlsson@appliedtechnology.se
+* Email: petter.carlsson@exopen.se
 * [LinkedIn](https://www.linkedin.com/in/petter0619/)
 * [Portfolio site](http://pettercarlsson.com)
 
