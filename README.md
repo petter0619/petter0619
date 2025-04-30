@@ -6,22 +6,6 @@
 
 🌱 During Q1 2021 completed the SALT (School of Applied Technology) Full-Stack Javascript Bootcamp. For a full list of the topics included in the bootcamp curriculum please visit: [salt.dev/about](https://salt.dev/about).
 
-### Portfolio
-
-Some projects I wish to highlight include:
-* [My 4DX](https://github.com/petter0619/my-4dx) - The final project at SALT completed over 2 weeks. Tech stack highlights: React, Node + Express (REST API), Firebase, ChartsJS, SCSS.
-* [React Todo List](https://github.com/petter0619/react-todo-list) - Tech stack highlights: React (class based components), SCSS
-* [Vanilla JS Todo List](https://github.com/petter0619/vanilla-js-todo-list) - Tech stach highlights: Vanilla JavaScript, CSS.
-* [Gallery Design Replication](https://github.com/petter0619/copy-a-design) - HTML and CSS mini-challenge to show how well I can replicate a given design.
-
-### Remaining GitHub Overview
-
-Apart from the above what you'll find in my repo are these pre-SALT projects:
-* [Yahtzee Game && Score Keeper](https://github.com/petter0619/yahtzeeScoreKeeper_repo) - The first project I built using JavaScript
-* [iDeal Bachata School](https://github.com/petter0619/milestoneProjectOne) - The first project I built using HTML, CSS and Bootstrap
-
-You'll also find some public repos that are works in progress e.g. my [TypeScript Todo List](https://github.com/petter0619/react-typescript-todo-list). The remaining public repos are tutorials that I've coded along with that I wanted to keep for reference.
-
 ### Contact
 
 📫 How to reach me:
